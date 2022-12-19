@@ -1,3 +1,3 @@
-# Beautiful listing
+# Красивый листинг для NGINX и apache
 
-Шаблоны для красивого листинга файлов для apache и nginx
+# Установка на NGINX
