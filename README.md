@@ -1,12 +1,13 @@
+Русский | [English](https://github.com/shoei1944/listing/README-en.md) 
 # Красивый листинг для NGINX и apache
 
 ![preview](http://img.sho20.ru/listing.png) 
 
 # Установка на NGINX
 
-1. Загрузить .html для nginx 
-2. Положить папку .html в кореневую директорию сайта
-2. Вставить код в location
+1. Загрузить ```.html``` для nginx 
+2. Положить папку ```.html``` в кореневую директорию сайта
+2. Вставить код в ```location```
 ```
 autoindex on;
 autoindex_localtime on;
@@ -23,9 +24,9 @@ add_after_body /.html/footer.html;
 ```
 
 # Установка на apache
-1. Загрузить папку tpl
-2. Положить папку tpl в кореневую директорию сайта
-3. Вставить код в .htaccess
+1. Загрузить папку ```tpl```
+2. Положить папку ```tpl``` в кореневую директорию сайта
+3. Вставить код в ```.htaccess```
 ```
 Options +Indexes
 IndexOptions Charset=UTF-8 FancyIndexing FoldersFirst HTMLTable IconsAreLinks IgnoreCase SuppressRules VersionSort SuppressHTMLPreamble SuppressDescription SuppressColumnSorting
