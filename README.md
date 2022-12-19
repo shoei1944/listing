@@ -1,4 +1,4 @@
-Русский | [English](https://github.com/shoei1944/listing/README-en.md) 
+Русский | [English](https://github.com/shoei1944/listing/blob/master/README-en.md) 
 # Красивый листинг для NGINX и apache
 
 ![preview](http://img.sho20.ru/listing.png) 
