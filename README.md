@@ -1,5 +1,7 @@
 # Красивый листинг для NGINX и apache
 
+![preview](http://img.sho20.ru/listing.png) 
+
 # Установка на NGINX
 
 1. Загрузить .html для nginx 
